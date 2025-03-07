@@ -1,0 +1,32 @@
+﻿{
+  "itemDatas": [
+    {
+      "item_ID": 0,
+      "item_Sprite": "sprite_0",
+      "item_Name": "플라스틱 병",
+      "item_Description": "쓰레기다.",
+      "item_Type": 0,
+      "item_Expendables": false,
+      "item_Visible": true,
+      "item_Price": 10,
+      "item_Durability": 1.0,
+      "item_Durability_Rate": 0.009999999776482582,
+      "item_Durability_Use": false,
+      "item_number": 0
+    },
+    {
+      "item_ID": 0,
+      "item_Sprite": "sprite_0",
+      "item_Name": "플라스틱 뚜껑",
+      "item_Description": "쓰레기다.",
+      "item_Type": 0,
+      "item_Expendables": false,
+      "item_Visible": true,
+      "item_Price": 10,
+      "item_Durability": 1.0,
+      "item_Durability_Rate": 0.009999999776482582,
+      "item_Durability_Use": false,
+      "item_number": 0
+    }
+  ]
+}

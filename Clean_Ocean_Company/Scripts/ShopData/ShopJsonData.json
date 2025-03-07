@@ -1,0 +1,407 @@
+﻿{
+  "shops": [
+    {
+      "s_Item_ID": 0,
+      "s_item_Stock": 10,
+      "s_item_Price": 1000,
+      "s_item_Sprite": "sprite_0",
+      "s_item_Name": "서울시교육청",
+      "s_item_Description": "서울시교육청, 스타벅스, 포인트 1, 10만 줌",
+      "rewards": [
+        {
+          "s_Reward_Type": 0,
+          "index": 0
+        },
+        {
+          "s_Reward_Type": 0,
+          "index": 11
+        },
+        {
+          "s_Reward_Type": 1,
+          "index": 2
+        }
+      ],
+      "probability": [
+        0.10000000149011612,
+        0.800000011920929,
+        1.0
+      ]
+    },
+    {
+      "s_Item_ID": 1,
+      "s_item_Stock": 10,
+      "s_item_Price": 500,
+      "s_item_Sprite": "Bsprite_1",
+      "s_item_Name": "환경부",
+      "s_item_Description": "포인트 1, 10, 100 텀블러 줌",
+      "rewards": [
+        {
+          "s_Reward_Type": 0,
+          "index": 0
+        },
+        {
+          "s_Reward_Type": 0,
+          "index": 1
+        },
+        {
+          "s_Reward_Type": 0,
+          "index": 11
+        },
+        {
+          "s_Reward_Type": 2,
+          "index": 1
+        }
+      ],
+      "probability": [
+        0.30000001192092898,
+        0.6000000238418579,
+        1.0
+      ]
+    },
+    {
+      "s_Item_ID": 0,
+      "s_item_Stock": 10,
+      "s_item_Price": 1000,
+      "s_item_Sprite": "Bsprite_0",
+      "s_item_Name": "한국토지공사",
+      "s_item_Description": "포인트 100, 200 만 줌",
+      "rewards": [
+        {
+          "s_Reward_Type": 0,
+          "index": 1
+        },
+        {
+          "s_Reward_Type": 0,
+          "index": 2
+        }
+      ],
+      "probability": [
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "s_Item_ID": 0,
+      "s_item_Stock": 10,
+      "s_item_Price": 1000,
+      "s_item_Sprite": "Bsprite_0",
+      "s_item_Name": "한국수자원공사",
+      "s_item_Description": "포인트 300이랑 400만 줌",
+      "rewards": [
+        {
+          "s_Reward_Type": 0,
+          "index": 3
+        },
+        {
+          "s_Reward_Type": 0,
+          "index": 4
+        }
+      ],
+      "probability": [
+        0.5,
+        1.0
+      ]
+    },
+    {
+      "s_Item_ID": 0,
+      "s_item_Stock": 10,
+      "s_item_Price": 1000,
+      "s_item_Sprite": "Bsprite_0",
+      "s_item_Name": "2022년 송별 기념",
+      "s_item_Description": "0 / 100 / 200 / 400 / 500, 호돌이, 이니스프리, 샤워장",
+      "rewards": [
+        {
+          "s_Reward_Type": 0,
+          "index": 1
+        },
+        {
+          "s_Reward_Type": 0,
+          "index": 2
+        },
+        {
+          "s_Reward_Type": 0,
+          "index": 4
+        },
+        {
+          "s_Reward_Type": 0,
+          "index": 5
+        },
+        {
+          "s_Reward_Type": 1,
+          "index": 0
+        },
+        {
+          "s_Reward_Type": 1,
+          "index": 1
+        },
+        {
+          "s_Reward_Type": 2,
+          "index": 0
+        }
+      ],
+      "probability": [
+        0.30000001192092898,
+        0.4000000059604645,
+        0.5,
+        0.6000000238418579,
+        0.699999988079071,
+        0.800000011920929,
+        0.8999999761581421
+      ]
+    }
+  ],
+  "rewardPoints": [
+    {
+      "index": 0,
+      "pointValue": 10
+    },
+    {
+      "index": 1,
+      "pointValue": 100
+    },
+    {
+      "index": 2,
+      "pointValue": 200
+    },
+    {
+      "index": 3,
+      "pointValue": 300
+    },
+    {
+      "index": 4,
+      "pointValue": 400
+    },
+    {
+      "index": 5,
+      "pointValue": 500
+    },
+    {
+      "index": 6,
+      "pointValue": 600
+    },
+    {
+      "index": 7,
+      "pointValue": 700
+    },
+    {
+      "index": 8,
+      "pointValue": 800
+    },
+    {
+      "index": 9,
+      "pointValue": 900
+    },
+    {
+      "index": 10,
+      "pointValue": 1000
+    },
+    {
+      "index": 11,
+      "pointValue": 1
+    },
+    {
+      "index": 12,
+      "pointValue": 50
+    }
+  ],
+  "rewardCupons": [
+    {
+      "index": 0,
+      "cuponName": "함덕해수욕장 샤워장 할인권",
+      "cupon_Sprite": "Csprite_0",
+      "rewardData": [
+        {
+          "bacode": "6000-5498-9844-3875",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.11.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "6174-0445-1092-6959",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "5223-4367-4159-3627",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "9591-5898-7446-7043",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "8720-0678-1935-8272",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        }
+      ],
+      "exchangeLink": "www.naver.com"
+    },
+    {
+      "index": 1,
+      "cuponName": "이니스프리 썬크림 교환권",
+      "cupon_Sprite": "Csprite_1",
+      "rewardData": [
+        {
+          "bacode": "0217-2382-2981-7848",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "8959-2551-3413-9771",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "8427-4175-1621-7434",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "8872-2747-5409-3986",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "8451-5751-6386-4388",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        }
+      ],
+      "exchangeLink": "www.naver.com"
+    },
+    {
+      "index": 2,
+      "cuponName": "스타벅스 아이스 아메리카노",
+      "cupon_Sprite": "Csprite_2",
+      "rewardData": [
+        {
+          "bacode": "9459-3147-5776-1625",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "6761-6054-2673-9575",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "7583-8061-9603-5820",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "9137-0569-0513-5209",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "4266-8162-6728-1670",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        }
+      ],
+      "exchangeLink": "www.naver.com"
+    }
+  ],
+  "rewardSouvenirs": [
+    {
+      "index": 0,
+      "souvenirName": "호돌이 피규어",
+      "souvenir_Sprite": "Ssprite_0",
+      "rewardData": [
+        {
+          "bacode": "KD231-3231DS-23212D",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "LGNJT-SJWPI-QB06KXH",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "5R079-JERUT-NZUMY2S",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "NWEO9-ACTYN-QCOM34K",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "ZWCZK-KW96T-UA575NB",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        }
+      ],
+      "exchangeLink": "www.naver.com"
+    },
+    {
+      "index": 1,
+      "souvenirName": "스탠리 텀블러",
+      "souvenir_Sprite": "Ssprite_1",
+      "rewardData": [
+        {
+          "bacode": "QXP29-ZVTWP-D6NWVBJ",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "X8HLA-EOUAS-009N2AJ",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "H9PO4-MS08Y-G8C1GPW",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "35174-7XP6X-02RHF1K",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "8QW3Y-DG9TK-LAHVY6H",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        },
+        {
+          "bacode": "9PHK1-F6D9N-K3JBE5E",
+          "publishedDate": "2024.01.01",
+          "expireDate": "2024.12.30",
+          "isPublication": false
+        }
+      ],
+      "exchangeLink": "www.naver.com"
+    }
+  ]
+}
